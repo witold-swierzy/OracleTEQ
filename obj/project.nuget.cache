@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWvd6a+/joVr+t+bmYO+F/fsFzaMqP7nJNSvRAxz6V5T/LhtUxWHrwbO8IY1MeZjWaIJPmJjcQBpxQXnEAqS2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WSWIERZY\\DotNetProjects\\OracleTEQ\\OracleTEQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\oracle.manageddataaccess.core\\23.2.0-dev\\oracle.manageddataaccess.core.23.2.0-dev.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.directoryservices\\7.0.1\\system.directoryservices.7.0.1.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.directoryservices.protocols\\7.0.1\\system.directoryservices.protocols.7.0.1.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\WSWIERZY\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
