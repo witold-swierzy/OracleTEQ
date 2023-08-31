@@ -115,14 +115,25 @@ internal class Program
     {
         try
         {
-            OracleConnection dbConnection = createDBConnection("ORADEV",
-                                                               "ORAcle__1234",
-                                                               "130.61.225.165/wsdb01_pdb01.vcnws01sub01.vcnws01.oraclevcn.com");
-            
-            
-            //basicJDBCTest(dbConnection);
+            string dbUrl, dbUsername, dbPassword;
 
-            //basicAQTest(dbConnection,"Test Message 01");
+            Console.Write("Please, provide database connection string : ");
+            dbUrl = Console.ReadLine();
+
+            Console.Write("Username : ");
+            dbUsername = Console.ReadLine();
+
+            Console.Write("Password : ");
+            dbPassword = Console.ReadLine();
+
+
+            OracleConnection dbConnection = createDBConnection(dbUsername,
+                                                               dbPassword,
+                                                               dbUrl); 
+            
+            basicJDBCTest(dbConnection);
+
+            basicAQTest(dbConnection,"Test Message 01");
 
             nativeAQTest(dbConnection);
             
